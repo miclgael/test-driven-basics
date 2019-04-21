@@ -3,6 +3,8 @@
 
 I am learning to write unit tests, to make more maintainable, self-documenting code. 💁‍♀️
 
+![jest.png](All tests passing feels nice!)
+
 This is a reference for learning purposes. You can pull it down and write your own tests.
 
 1. Starting with no test runner or functions write basic tests with `throw new Error()`
