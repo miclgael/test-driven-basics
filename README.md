@@ -3,7 +3,7 @@
 
 I am learning to write unit tests, to make more maintainable, self-documenting code. 💁‍♀️
 
-![jest.png](All tests passing feels nice!)
+![All tests passing feels nice!](jest.png)
 
 This is a reference for learning purposes. You can pull it down and write your own tests.
 
